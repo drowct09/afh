@@ -115,17 +115,17 @@ line-height: 1;
 font-weight: inherit;
 }
 
-/* ANTHONY – heavy grey with t-o-n-y emphasized */
+/* ANTHONY – heavy blue with t-o-n-y emphasized */
 .name-heavy {
 font-family: 'Oswald', sans-serif;
 font-weight: 700;
 font-size: clamp(72px, 14vw, 180px);
 text-transform: uppercase;
 letter-spacing: -1px;
-color: #666666;
+color: #4a9eff;
 text-shadow:
 0 6px 18px rgba(0,0,0,0.6),
-0 2px 4px rgba(0,0,0,0.4),
+0 2px 4px rgba(74,158,255,0.4),
 0 1px 0 rgba(255,255,255,0.06);
 }
 
@@ -136,13 +136,13 @@ transform: scaleY(0.94);
 transform-origin: bottom;
 }
 
-/* t, o, n, y – lighter grey accent */
+/* t, o, n, y – lighter blue accent */
 .name-heavy .tony {
 display: inline-block;
-color: #b3b3b3;
+color: #6bb3ff;
 text-shadow:
 0 6px 18px rgba(0,0,0,0.5),
-0 2px 4px rgba(0,0,0,0.3),
+0 2px 4px rgba(107,179,255,0.3),
 0 1px 0 rgba(255,255,255,0.1);
 }
 
